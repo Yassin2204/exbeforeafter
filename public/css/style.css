@@ -1,0 +1,23 @@
+
+#exo1::before {
+    content: "";
+    background-color: red;
+    position: absolute;
+    transition: 1s;
+    top: 20%;
+    left: 0%;
+    width: 0%;
+    height: 2%;
+}
+
+#exo1:hover::before {
+    width: 240px;
+}
+
+/* Exo 2 */
+
+/* fin Exo 2 */
+
+/* Exo 3 */
+
+/* fin Exo 3 */
